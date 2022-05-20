@@ -116,7 +116,7 @@ goto about
 echo Thanks For Using Our Tool !!!
 echo.
 start https://discord.gg/pZhZDu9Anw
-start https://github.com/Hack-Em-Lord
+start https://github.com/hackemlord
 exit
 
 
